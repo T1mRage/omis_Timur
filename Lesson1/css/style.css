@@ -1,0 +1,21 @@
+/* id */    
+MyHeader {
+    color: red;
+
+}
+.MyHeader {
+    background-color: blue;
+
+}
+h1{
+    font-size: 12px;
+}
+.myfontsize {
+    font-size: 16;
+}
+.myfontcolor {
+    color: greenyellow;
+}
+.myfontcolor2 {
+    color: aqua;
+}

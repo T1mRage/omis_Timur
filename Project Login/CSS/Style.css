@@ -1,0 +1,37 @@
+body{
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 50%, rgba(155,172,177,0.5802696078431373) 50%, rgba(5,6,194,1) 50%   );
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#mainblock{
+    width: 80%;
+    height: 80%;
+    background-color: white;
+    border-radius: 25px;
+
+    -webkit-box-shadow: 0px 0px 30px -5px #000000; 
+    box-shadow: 0px 0px 30px -5px #000000;
+
+}
+.leftinnerwidth {
+    width: 50%;
+    text-align: center;
+
+}
+.rightinnerwidth {
+    width: 50%;
+    
+
+}
+.leftinnerwidth > img.x1 {
+    width: 85px;
+    height: 50px;
+
+}
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
