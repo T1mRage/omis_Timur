@@ -23,6 +23,7 @@ body{
     width: 50%;
     text-align: center;
 
+
 }
 .rightinnerwidth {
     width: 50%;
@@ -39,7 +40,7 @@ h1 {
 }
 #btnGoogle {
     display: block;
-    width: 40%;
+    width: 200px;
     height: 30px;
     border: 1px solid#9c9c9c;
     text-decoration: none;
@@ -136,4 +137,8 @@ form input[name="formlogin"]{
     margin: auto;
     border: 1px solid #7305e1a3 ; 
     
+}
+#frmlogin {
+    width: 200px;
+    margin: auto;
 }
