@@ -1,0 +1,13 @@
+
+.card {
+    border-radius: .5rem !important;
+}
+.bgbox1 {
+    background-color: bisque;
+}
+.bgbox2 {
+    background-color: gainsboro;
+}
+.bgbox3 {
+    background-color: paleturquoise;
+}
